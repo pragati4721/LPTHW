@@ -1,4 +1,4 @@
 # LPTHW
-Learning Python\n
-Study Material used "Learn Pytho the Hard way"\n
-http://learnpythonthehardway.org
+Learning Python  
+# link to my learningPygame Repositoty
+http://github.com/pragati4721/LearningPygame
