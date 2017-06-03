@@ -1,4 +1,4 @@
 # LPTHW
-Learning Python
-Study Material used "Learn Pytho the Hard way"
+Learning Python\n
+Study Material used "Learn Pytho the Hard way"\n
 http://learnpythonthehardway.org
